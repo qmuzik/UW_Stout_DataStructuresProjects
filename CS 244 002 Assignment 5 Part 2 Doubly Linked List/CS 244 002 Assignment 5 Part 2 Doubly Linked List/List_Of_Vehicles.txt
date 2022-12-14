@@ -1,0 +1,57 @@
+[------------------------------------------
+ID: 10001
+Make: Kia
+Model: Rio
+Number of seats: 4
+Availability: available
+Extra Features[1]: 
+[AC]
+, ------------------------------------------
+ID: 10003
+Make: Hyundai
+Model: Elantra
+Number of seats: 5
+Availability: available
+Extra Features[0]: 
+Basic trim
+, ------------------------------------------
+ID: 10007
+Make: Toyota
+Model: RAV4
+Number of seats: 5
+Availability: available
+Extra Features[1]: 
+[AC]
+, ------------------------------------------
+ID: 10005
+Make: Toyota
+Model: RAV4
+Number of seats: 5
+Availability: available
+Extra Features[1]: 
+[AC]
+, ------------------------------------------
+ID: 10002
+Make: Nissan
+Model: Versa
+Number of seats: 5
+Availability: available
+Extra Features[2]: 
+[AC, GPS]
+, ------------------------------------------
+ID: 10006
+Make: Chevrolet
+Model: Equinox
+Number of seats: 5
+Availability: available
+Extra Features[3]: 
+[AC, DVD, Back Camera]
+, ------------------------------------------
+ID: 10004
+Make: Dodge
+Model: Grand Caravan
+Number of seats: 7
+Availability: Not available
+Extra Features[3]: 
+[AC, GPS, DVD]
+]
