@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\MuzikQuincy\source\repos\CS244 002 Sorting and Searching Final Assignment\CS244 002 Sorting and Searching Final Assignment\main.cpp(75,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS244 002 Sorting and Searching Final Assignment.vcxproj -> C:\Users\MuzikQuincy\source\repos\CS244 002 Sorting and Searching Final Assignment\x64\Debug\CS244 002 Sorting and Searching Final Assignment.exe
