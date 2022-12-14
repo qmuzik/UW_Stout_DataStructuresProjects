@@ -1,0 +1,80 @@
+Thiago Alcantara
+1000.5
+Trent Alexander-Arnold
+1550.75
+Taiwo Awoniyi
+300.11
+Jack Bearne
+10.3
+Jake Cain
+749.5
+Leighton Clarkson
+542.0
+Tom Clayton
+3000.90
+Ben Davies
+789.85
+Harvey Davies
+50.2
+Elijah Dixon-Bonner
+3.75
+Harvey Elliott
+800.50
+Roberto Firmino
+4500.50
+Tony Gallacher
+785.11
+Joe Gomez
+12.5
+Kamil Grabara
+777.75
+Marko Grujic
+350.50
+Joe Hardy
+400.0
+Jordan Henderson
+900.50
+Liam Hughes
+150.0
+Vitezslav Jaros
+22.25
+Curtis Jones
+15.0
+Diogo Jota
+300.0
+Ozan Kabak
+90.15
+Herbie Kane
+400.50
+Loris Karius
+11.0
+Naby Keita
+1470.50
+Caoimhin Kelleher
+800.77
+Yasser Larouci
+200.5
+Sadio Mane
+800.5
+Adrian Murcia
+10.10
+Sheyi Ojo
+750.50
+Alex Oxlade-Chamberlain
+1523.05
+Nathaniel Phillips
+400.0
+Andrew Robertson
+300.0
+Mohamed Salah
+785.75
+Xherdan Shaqiri
+50.0
+Sepp Van den Berg
+45.0
+Virgil van Dijk
+100.0
+Harry Wilson
+120.50
+Benjamin Woodburn
+789.99
